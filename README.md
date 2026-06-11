@@ -54,25 +54,20 @@ alexwhen/docker-2048
 
 ## Screenshots
 
+### Application Running in Browser
+![Application Running](screenshots/01-application-browser.png)
+
 ### ECS Cluster
-
-*Add screenshot here.*
-
-### Task Definition
-
-*Add screenshot here.*
+![ECS Cluster](screenshots/02-ecs-cluster.png)
 
 ### Running Fargate Task
+![Running Fargate Task](screenshots/03-running-task.png)
 
-*Add screenshot here.*
+### Task Definition
+![Task Definition](screenshots/04-task-definition.png)
 
 ### Security Group Inbound Rule
-
-*Add screenshot here.*
-
-### Application Running in Browser
-
-*Add screenshot here.*
+![Security Group](screenshots/05-security-group.png)
 
 ## What I Learned
 
